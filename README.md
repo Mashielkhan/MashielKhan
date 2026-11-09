@@ -1,6 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e40af,100:7c3aed&text=Mashiel%20Khan&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Full-Stack%20Engineering&descSize=17&descAlignY=59&animation=fadeIn" alt="Mashiel Khan — Software Developer" />
+# ✨ Mashiel Khan
+
+### Software Developer • AI & Full-Stack Engineering
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient" alt="" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1100&color=60A5FA&center=true&vCenter=true&width=720&lines=Turning+real-world+problems+into+software;AI-powered+products+%7C+Full-stack+development;Building%2C+learning%2C+improving" alt="Animated introduction" />
 
