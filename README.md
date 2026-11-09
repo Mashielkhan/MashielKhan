@@ -131,6 +131,14 @@ A mobile application project focused on content creation, repurposing, and organ
 
 <sub>GitHub graphs are powered by third-party image services and may occasionally fail to load or exclude private activity.</sub>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Animated GitHub contribution snake](https://raw.githubusercontent.com/Mashielkhan/MashielKhan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ## 🤝 Let's connect
 
 I'm open to **internships, technical collaborations, and opportunities to build software that solves real problems**.
