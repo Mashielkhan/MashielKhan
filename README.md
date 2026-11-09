@@ -1,52 +1,69 @@
 <div align="center">
 
-# ✨ Mashiel Khan
+<img src="./assets/header.svg" width="100%" alt="Mashiel Khan — Software Developer, AI & Full-Stack Engineering"/>
 
-### Software Developer • AI & Full-Stack Engineering
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+AI-powered+products+for+real+problems;From+database+to+interface+%E2%80%94+end+to+end;Write+code.+Test+ideas.+Ship+useful+software." alt="Animated introduction"/>
 
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1100&color=60A5FA&center=true&vCenter=true&width=720&lines=Turning+real-world+problems+into+software;AI-powered+products+%7C+Full-stack+development;Building%2C+learning%2C+improving" alt="Animated introduction" />
+[![Profile views](https://komarev.com/ghpvc/?username=Mashielkhan&label=PROFILE+VIEWS&color=0e7490&style=flat-square)](https://github.com/Mashielkhan)
+[![Followers](https://img.shields.io/github/followers/Mashielkhan?style=flat-square&logo=github&label=FOLLOWERS&color=6d28d9)](https://github.com/Mashielkhan?tab=followers)
+[![Public repositories](https://img.shields.io/badge/PROJECTS-EXPLORE-2563eb?style=flat-square&logo=github)](https://github.com/Mashielkhan?tab=repositories)
+[![Open to internships](https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-059669?style=flat-square)](https://github.com/Mashielkhan)
 
-**BS Computer Science · Lahore, Pakistan · Open to internships**
+**Software Developer** · **AI / NLP Enthusiast** · **BS Computer Science** · **Lahore, Pakistan**
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repositories-111827?style=for-the-badge&logo=github)](https://github.com/Mashielkhan?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Source_Code-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Mashielkhan/mashielkhan-portfolio)
+[**Explore projects**](#-selected-projects) · [**Toolbox**](#-toolbox) · [**Engineering approach**](#-how-i-build) · [**Contributions**](#-github-contributions)
 
 </div>
 
-## 👨‍💻 About me
+---
 
-I'm a **software developer and BS Computer Science student** focused on building useful, user-centered applications. My work spans **full-stack web development, AI/NLP applications, mobile experiences, databases, and developer tools**.
+### `> whoami`
 
-- 🔭 **Building:** practical AI-enabled and full-stack projects.
-- 🧠 **Exploring:** NLP, semantic search, developer tooling, and reliable application architecture.
-- 🛠️ **Priorities:** clean interfaces, maintainable code, testing, and documentation.
-- 🤝 **Interested in:** software engineering internships and meaningful collaborations.
+I'm **Mashiel Khan**, a BS Computer Science student building real-world software across **web, AI, APIs, mobile, and data systems**. I care about more than shiny interfaces: I want to understand how products work end to end, test the important paths, and communicate decisions clearly.
 
-## 🚀 Featured projects
+- 🔭 **Currently focused on:** AI-enabled applications, full-stack systems, and developer tools
+- 🧠 **Learning by building:** semantic search, applied NLP, integrations, and scalable architecture
+- 🎯 **What matters to me:** useful features, readable code, privacy, reliability, and thoughtful UX
+- 🤝 **Open to:** software engineering internships, projects, and technical collaboration
+
+## 🧩 What I build
+
+<div align="center">
+
+| 🧠 AI & NLP | 🌐 Full-stack web | 📱 Mobile | 🛠️ Developer tools |
+|:---:|:---:|:---:|:---:|
+| Resume parsing, semantic matching, search | Interactive apps, APIs, auth, database-backed workflows | React Native / Expo and Flutter exploration | .NET MCP servers, SQL, tests, automation |
+
+</div>
+
+## 🚀 Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [TalentLens AI](https://github.com/Mashielkhan/talentlens-ai)
-**AI-powered resume analysis & job matching**
+### 🧠 [TalentLens AI](https://github.com/Mashielkhan/talentlens-ai)
 
-Resume parsing, evidence-based applicant matching, CV editing, and privacy-aware workflows.
+**AI-powered resume analyzer & job matcher**
 
-`AI / NLP` `Full-stack` `Python` `Testing`
+Resume/CV processing, semantic comparison, user-controlled editing, and reviewable evaluation workflows.
 
-*Development stage; not publicly hosted.*
+`AI / NLP` `Python` `Full-stack` `Testing`
+
+**Status:** development project; no public hosted demo.
 
 </td>
 <td width="50%" valign="top">
 
-### [Mapify](https://github.com/Mashielkhan/Mapify)
-**Interactive roadmaps & flowcharts**
+### 🗺️ [Mapify](https://github.com/Mashielkhan/Mapify)
 
-Visual node-based editing for learning paths, project planning, and connected concepts.
+**Interactive roadmap & flowchart builder**
+
+A node-based visual workspace for diagramming learning paths, flows, and ideas.
 
 `Next.js` `React Flow` `Firebase` `Auth0`
 
@@ -55,20 +72,22 @@ Visual node-based editing for learning paths, project planning, and connected co
 <tr>
 <td width="50%" valign="top">
 
-### [KnitKraft](https://github.com/Mashielkhan/KnitKraft)
-**Wool supply-chain & marketplace platform**
+### 🧶 [KnitKraft](https://github.com/Mashielkhan/KnitKraft)
 
-A multilingual platform concept connecting different participants in wool production and trade.
+**Wool marketplace & supply-chain workflows**
+
+Multilingual application exploring how producers, suppliers, buyers, and logistics roles interact.
 
 `Node.js` `Express` `MongoDB` `EJS`
 
 </td>
 <td width="50%" valign="top">
 
-### [Library MCP Server](https://github.com/Mashielkhan/library-mcp-server)
-**Developer tools / Model Context Protocol**
+### ⚙️ [Library MCP Server](https://github.com/Mashielkhan/library-mcp-server)
 
-Library catalog discovery, borrowing, returns, SQL-backed data access, and automated tests.
+**Model Context Protocol meets .NET**
+
+Catalog search, inventory, borrowing and returns with SQL Server, EF Core, and tests.
 
 `C#` `.NET 8` `SQL Server` `EF Core`
 
@@ -77,20 +96,22 @@ Library catalog discovery, borrowing, returns, SQL-backed data access, and autom
 <tr>
 <td width="50%" valign="top">
 
-### [NoteVec](https://github.com/Mashielkhan/note-vec)
-**Semantic note sharing & knowledge discovery**
+### 📚 [NoteVec](https://github.com/Mashielkhan/note-vec)
 
-Academic document organization, knowledge graphs, and search-oriented learning workflows.
+**Semantic academic knowledge discovery**
+
+A learning-resource platform concept with vector search and connected knowledge visualization.
 
 `Next.js` `MongoDB` `D3.js` `Vector Search`
 
 </td>
 <td width="50%" valign="top">
 
-### [ContentForge](https://github.com/Mashielkhan/contentforge)
-**Mobile workflows for creators**
+### 📱 [ContentForge](https://github.com/Mashielkhan/contentforge)
 
-A mobile application project focused on content creation, repurposing, and organization.
+**Mobile content workflow app**
+
+A React Native/Expo project for creation, repurposing, and organizing content.
 
 `Expo` `React Native` `TypeScript`
 
@@ -98,58 +119,114 @@ A mobile application project focused on content creation, repurposing, and organ
 </tr>
 </table>
 
-> Projects are at different stages. Each repository contains the most relevant implementation and setup details.
+<details>
+<summary><b>🧪 More projects and experiments</b></summary>
 
-## 🧰 Tools & technologies
+<br/>
+
+- [HousePrice Prediction](https://github.com/Mashielkhan/HousePrice-Prediction) — machine learning / predictive modeling coursework
+- [AppVision React](https://github.com/Mashielkhan/appvision-react) — frontend application experiments
+- [Portfolio](https://github.com/Mashielkhan/mashielkhan-portfolio) — personal developer portfolio built with Next.js
+
+</details>
+
+> **Build status varies by repository.** Browse the project READMEs for current implementation notes, setup instructions, and limitations.
+
+## 🧰 Toolbox
 
 <div align="center">
 
-**Programming languages**
+**Languages & fundamentals**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,cs,html,css&perline=8" alt="Python, JavaScript, TypeScript, Java, C++, C sharp, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,cs,html,css&perline=8" alt="Python JavaScript TypeScript Java C++ C# HTML CSS"/>
 
-**Frontend & mobile**
+**Frontend, design & mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma&perline=5" alt="React, Next.js, Tailwind CSS, Flutter, Figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma&perline=5" alt="React Next.js Tailwind Flutter Figma"/>
 
-**Backend, databases & developer tools**
+**Backends, databases & cloud**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,firebase,docker,git,github&perline=9" alt="Node.js, Express, FastAPI, PostgreSQL, MongoDB, Firebase, Docker, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,firebase&perline=6" alt="Node Express FastAPI PostgreSQL MongoDB Firebase"/>
+
+**Engineering tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman&perline=6" alt="Git GitHub Docker VS Code Linux Postman"/>
 
 </div>
 
-## 📈 GitHub activity
+## 🏗️ How I build
+
+I enjoy working across the whole product lifecycle — not only writing UI components.
+
+```mermaid
+flowchart LR
+  A["Identify a real problem"] --> B["Design the experience"]
+  B --> C["Build the API and data model"]
+  C --> D["Integrate AI where useful"]
+  D --> E["Test and refine"]
+  E --> F["Document and deliver"]
+  F -. "Feedback" .-> B
+```
+
+<details>
+<summary><b>🔍 Engineering areas I care about</b></summary>
+
+<br/>
+
+| Area | My focus |
+| --- | --- |
+| Frontend | Accessible, responsive interfaces and useful interactions |
+| Backend | API contracts, validation, authentication, and data modeling |
+| Applied AI | NLP, embeddings, matching, and honest evaluation |
+| Quality | Automated tests, meaningful errors, and repeatable setup |
+| Delivery | Git, Docker, CI workflows, documentation, and deployment learning |
+
+</details>
+
+## 📊 GitHub contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mashielkhan&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashielkhan&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Public repository language breakdown" />
+**Public GitHub statistics**
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mashielkhan&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+<img height="166" src="https://github-stats-extended.vercel.app/api?username=Mashielkhan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats card"/>
+<img height="166" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mashielkhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top public repository languages"/>
+
+<br/>
+
+[![View verified GitHub contribution history](https://img.shields.io/badge/VIEW_GITHUB_CONTRIBUTIONS-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mashielkhan?tab=overview)
 
 </div>
 
-<sub>GitHub graphs are powered by third-party image services and may occasionally fail to load or exclude private activity.</sub>
+<sub>Stats use a third-party card provider; the linked GitHub contributions page is the authoritative source. Language share is based on repositories, not a proficiency score.</sub>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution snake
 
 <div align="center">
 
-![Animated GitHub contribution snake](https://raw.githubusercontent.com/Mashielkhan/MashielKhan/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mashielkhan/MashielKhan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mashielkhan/MashielKhan/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated snake crossing Mashiel Khan's GitHub contribution grid" src="https://raw.githubusercontent.com/Mashielkhan/MashielKhan/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>Generated automatically by GitHub Actions. [See snake workflow](https://github.com/Mashielkhan/MashielKhan/actions/workflows/snake.yml).</sub>
 
 </div>
 
-## 🤝 Let's connect
-
-I'm open to **internships, technical collaborations, and opportunities to build software that solves real problems**.
+---
 
 <div align="center">
 
-[![Explore my work](https://img.shields.io/badge/Explore_my_work-111827?style=for-the-badge&logo=github)](https://github.com/Mashielkhan?tab=repositories)
-[![View portfolio repository](https://img.shields.io/badge/Portfolio_repository-2563EB?style=for-the-badge&logo=vercel)](https://github.com/Mashielkhan/mashielkhan-portfolio)
+### 💬 Let's build something useful
 
-**Build with purpose. Keep learning. Ship better software.**
+I'm looking for opportunities to **learn, collaborate, and contribute** to real engineering teams.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:1e40af,100:7c3aed" alt="" />
+[![My work](https://img.shields.io/badge/EXPLORE_PROJECTS-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mashielkhan?tab=repositories)
+[![Portfolio source](https://img.shields.io/badge/PORTFOLIO_SOURCE-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Mashielkhan/mashielkhan-portfolio)
+
+**`const mindset = "Build → Test → Learn → Improve";`**
+
+<sub>Made with Markdown, SVG, GitHub Actions, and a healthy obsession with improving things.</sub>
 
 </div>
