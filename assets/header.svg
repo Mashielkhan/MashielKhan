@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Mashiel Khan - Software Engineer building AI and full-stack products">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#080e20"/><stop offset=".56" stop-color="#102451"/><stop offset="1" stop-color="#241044"/></linearGradient>
+ <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity=".08"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="20"/></filter>
+</defs>
+<rect width="1200" height="310" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="310" rx="22" fill="url(#grid)"/>
+<circle cx="1020" cy="115" r="130" fill="#7c3aed" opacity=".20" filter="url(#glow)"/>
+<circle cx="975" cy="158" r="107" fill="none" stroke="#38bdf8" stroke-opacity=".28" stroke-width="1.4"/>
+<circle cx="975" cy="158" r="74" fill="none" stroke="#a78bfa" stroke-opacity=".40" stroke-width="1.4" stroke-dasharray="7 9"/>
+<path d="M925 158l32-32m-32 32 32 32m78-64-32 32 32 32" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<rect x="53" y="42" width="221" height="30" rx="15" fill="#ffffff" fill-opacity=".07" stroke="#7dd3fc" stroke-opacity=".26"/>
+<circle cx="72" cy="57" r="5" fill="#34d399"/>
+<text x="88" y="62" fill="#cbd5e1" font-family="Verdana,Arial,sans-serif" font-size="13" letter-spacing="2">OPEN TO INTERNSHIPS</text>
+<text x="52" y="159" fill="#ffffff" font-family="Verdana,Arial,sans-serif" font-size="61" font-weight="800" letter-spacing="-2">MASHIEL <tspan fill="url(#accent)">KHAN</tspan></text>
+<text x="55" y="201" fill="#cbd5e1" font-family="Verdana,Arial,sans-serif" font-size="21">Software Developer  /  AI &amp; Full-Stack Engineering</text>
+<line x1="55" y1="224" x2="638" y2="224" stroke="url(#accent)" stroke-width="2" opacity=".6"/>
+<text x="55" y="257" fill="#94a3b8" font-family="monospace" font-size="16">const mission = "Build useful things that work.";</text>
+<text x="55" y="287" fill="#64748b" font-family="monospace" font-size="13">LAHORE, PAKISTAN  •  BS COMPUTER SCIENCE</text>
+</svg>
