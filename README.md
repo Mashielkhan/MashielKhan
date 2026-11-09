@@ -44,78 +44,16 @@ I'm **Mashiel Khan**, a BS Computer Science student building real-world software
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 [TalentLens AI](https://github.com/Mashielkhan/talentlens-ai)
-
-**AI-powered resume analyzer & job matcher**
-
-Resume/CV processing, semantic comparison, user-controlled editing, and reviewable evaluation workflows.
-
-`AI / NLP` `Python` `Full-stack` `Testing`
-
-**Status:** development project; no public hosted demo.
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ [Mapify](https://github.com/Mashielkhan/Mapify)
-
-**Interactive roadmap & flowchart builder**
-
-A node-based visual workspace for diagramming learning paths, flows, and ideas.
-
-`Next.js` `React Flow` `Firebase` `Auth0`
-
-</td>
+<td width="50%" valign="top"><h3>🧠 <a href="https://github.com/Mashielkhan/talentlens-ai">TalentLens AI</a></h3><strong>AI-powered resume analyzer & job matcher</strong><p>Resume/CV processing, semantic comparison, user-controlled editing, and reviewable evaluation workflows.</p><p><code>AI / NLP · Python · Full-stack · Testing</code></p><p><em>Development project; no public hosted demo</em></p></td>
+<td width="50%" valign="top"><h3>🗺️ <a href="https://github.com/Mashielkhan/Mapify">Mapify</a></h3><strong>Interactive roadmap & flowchart builder</strong><p>Node-based visual workspace for diagramming learning paths, flows, and ideas.</p><p><code>Next.js · React Flow · Firebase · Auth0</code></p></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🧶 [KnitKraft](https://github.com/Mashielkhan/KnitKraft)
-
-**Wool marketplace & supply-chain workflows**
-
-Multilingual application exploring how producers, suppliers, buyers, and logistics roles interact.
-
-`Node.js` `Express` `MongoDB` `EJS`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ [Library MCP Server](https://github.com/Mashielkhan/library-mcp-server)
-
-**Model Context Protocol meets .NET**
-
-Catalog search, inventory, borrowing and returns with SQL Server, EF Core, and tests.
-
-`C#` `.NET 8` `SQL Server` `EF Core`
-
-</td>
+<td width="50%" valign="top"><h3>🧶 <a href="https://github.com/Mashielkhan/KnitKraft">KnitKraft</a></h3><strong>Wool marketplace & supply-chain workflows</strong><p>Multilingual application exploring how producers, suppliers, buyers, and logistics roles interact.</p><p><code>Node.js · Express · MongoDB · EJS</code></p></td>
+<td width="50%" valign="top"><h3>⚙️ <a href="https://github.com/Mashielkhan/library-mcp-server">Library MCP Server</a></h3><strong>Model Context Protocol meets .NET</strong><p>Catalog search, inventory, borrowing and returns with SQL Server, EF Core, and tests.</p><p><code>C# · .NET 8 · SQL Server · EF Core</code></p></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📚 [NoteVec](https://github.com/Mashielkhan/note-vec)
-
-**Semantic academic knowledge discovery**
-
-A learning-resource platform concept with vector search and connected knowledge visualization.
-
-`Next.js` `MongoDB` `D3.js` `Vector Search`
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 [ContentForge](https://github.com/Mashielkhan/contentforge)
-
-**Mobile content workflow app**
-
-A React Native/Expo project for creation, repurposing, and organizing content.
-
-`Expo` `React Native` `TypeScript`
-
-</td>
+<td width="50%" valign="top"><h3>📚 <a href="https://github.com/Mashielkhan/note-vec">NoteVec</a></h3><strong>Semantic academic knowledge discovery</strong><p>A learning-resource platform concept with vector search and connected knowledge visualization.</p><p><code>Next.js · MongoDB · D3.js · Vector Search</code></p></td>
+<td width="50%" valign="top"><h3>📱 <a href="https://github.com/Mashielkhan/contentforge">ContentForge</a></h3><strong>Mobile content workflow app</strong><p>A React Native/Expo project for creation, repurposing, and organizing content.</p><p><code>Expo · React Native · TypeScript</code></p></td>
 </tr>
 </table>
 
